@@ -1,3 +1,3 @@
-# xvjieru123
+# 动漫
 
-这是一个GitBook 自动化构建的Demo
+这是一个介绍动漫的GitBook
