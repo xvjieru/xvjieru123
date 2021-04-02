@@ -1,0 +1,23 @@
+{
+  "name": "xvjieru123",
+  "version": "1.0.0",
+  "description": "这是一个GitBook 自动化构建的Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xvjieru/xvjieru123.git"
+  },
+  "keywords": [],
+  "author": "xvjieru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xvjieru/xvjieru123/issues"
+  },
+  "homepage": "https://github.com/xvjieru/xvjieru123#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
